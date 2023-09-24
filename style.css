@@ -65,6 +65,7 @@
     height: 550px;
     justify-content: center;
     align-items: center;
+    position: absolute;
 }
 #home::before{
     content: "";
